@@ -1,1 +1,1 @@
-#hi i am here to write python code and test in github
+#what can i do i need to try to get how things works
